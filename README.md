@@ -1,1 +1,1 @@
-This is a reddit bot to turn all photos and gifs in a imgur album into one gifv.
+This is a Reddit bot to turn all photos and gifs in a imgur album into one gifv.
